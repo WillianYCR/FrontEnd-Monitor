@@ -1,0 +1,12 @@
+monitor-web/.classpath
+monitor-web/.project
+monitor-web/.settings/.jsdtscope
+monitor-web/.settings/org.eclipse.wst.validation.prefs
+monitor-web/.settings/org.eclipse.wst.jsdt.ui.superType.container
+monitor-web/.settings/org.eclipse.wst.jsdt.ui.superType.name
+monitor-web/.settings/org.eclipse.wst.common.project.facet.core.xml
+monitor-web/.settings/org.eclipse.wst.common.component
+monitor-web/.settings/org.eclipse.jdt.core.prefs
+monitor-web/.settings/org.eclipse.m2e.core.prefs
+monitor-web/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
+monitor-web/target/maven-archiver/pom.properties
